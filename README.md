@@ -11,7 +11,6 @@ I am passionate about applying quantitative skills, statistical modeling, and pr
 ### Currently Learning & Focusing On
 *   Preparing for **SOA Exam FM (Financial Mathematics)** - Target: Aug 2026.
 *   Advanced Data Wrangling & Statistical Modeling with Python, SQL, and R.
-*   Exploring Non-Life pricing frameworks (GLM).
 
 ### Tech Stack
 *   **Languages:** Python, SQL, R
