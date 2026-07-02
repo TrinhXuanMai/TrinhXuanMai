@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Trinh Xuan Mai
 
-<!--
-**TrinhXuanMai/TrinhXuanMai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Actuarial Science Undergraduate @ UEH | Aspiring Actuary & Data Analyst**
 
-Here are some ideas to get you started:
+I am passionate about applying quantitative skills, statistical modeling, and programming to solve complex financial and insurance problems. I love transforming raw data into actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Project (Completed)
+*   [**Endowment Pricing & Reserving Engine**](https://github.com/TrinhXuanMai/Endowment-Pricing-Engine) 
+    *   *Built a DCF pricing model and Fackler reserve engine for a 15-year life insurance product using Python & Excel. Automated stress-testing to analyze the financial impact of Bancassurance lapse crises.*
+
+### 🌱 Currently Learning & Focusing On
+*   Preparing for **SOA Exam FM (Financial Mathematics)** - Target: Aug 2026.
+*   Advanced Data Wrangling & Statistical Modeling with Python, SQL, and R.
+*   Exploring Non-Life pricing frameworks (GLM).
+
+### 🛠️ Tech Stack
+*   **Languages:** Python, SQL, R
+*   **Libraries:** pandas, matplotlib, seaborn, dplyr
+*   **Tools:** MS Excel, Git/GitHub
+
+### 📫 Let's Connect!
+*   **LinkedIn:** https://www.linkedin.com/in/mai-tr%E1%BB%8Bnh-xu%C3%A2n-19a3b139a/
+*   **Email:** thanhngocmai12@gmail.com
