@@ -1,11 +1,14 @@
 # Hi there 👋, I'm Trinh Xuan Mai
 
-**Actuarial Science Undergraduate @ UEH | Aspiring Actuary & Data Analyst**
+**Actuarial Science Undergraduate @ UEH | Aspiring Actuary & Data Analyst & Business Support**
 
 I am passionate about applying quantitative skills, statistical modeling, and programming to solve complex financial and insurance problems. I love transforming raw data into actionable business insights.
 
-### Featured Project (Completed)
-*   [**Endowment Pricing & Reserving Engine**](https://github.com/TrinhXuanMai/Endowment-Pricing-Engine) 
+### Featured Projects (Completed)
+*   [**Bank Customer Churn Prediction**](https://github.com/TrinhXuanMai/Bank-Churn-Prediction)
+    *   *End-to-end ML pipeline comparing 5 classification models to predict bank customer churn. Random Forest achieved AUC 0.985 and 96% accuracy. Translated results into retention strategy recommendations.*
+
+*   [**Endowment Pricing & Reserving Engine**](https://github.com/TrinhXuanMai/Endowment-Pricing-Engine)
     *   *Built a DCF pricing model and Fackler reserve engine for a 15-year life insurance product using Python & Excel. Automated stress-testing to analyze the financial impact of Bancassurance lapse crises.*
 
 ### Currently Learning & Focusing On
